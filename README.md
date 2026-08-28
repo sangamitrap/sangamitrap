@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![Hero image](image/hero.png)
 
 <!--
